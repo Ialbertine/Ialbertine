@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Albertine Ingabire</h1>
 <h3 align="left">I am a dedicated junior developer who works with the Front-end development, currently exploring more about back-end development while building efficient web applications that provide smooth user experiences.</h3>
 
-- 🌱 I’m currently learning **Flutter, Next.js and Typescript**
+- 🌱 I’m currently learning **Flutter, React Native**
 
 - 💬 Ask me about **Front-end development**
 
