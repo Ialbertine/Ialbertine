@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Albertine Ingabire</h1>
-<h3 align="left">I am a dedicated junior developer who works with the Front-end development, currently exploring more about back-end development while building efficient web applications that provide smooth user experiences.</h3>
+<h3 align="left">Full-stack developer building modern web applications with a focus on performance, scalability, and great user experience. Always learning and exploring new technologies, including mobile development.</h3>
 
 - 🌱 I’m currently learning **Flutter, React Native**
 
