@@ -2,9 +2,6 @@
 <h3 align="left">Full-stack developer building modern web applications with a focus on performance, scalability, and great user experience. Always learning and exploring new technologies, including mobile development.</h3>
 
 - 🌱 I’m currently learning **Flutter, React Native**
-
-- 💬 Ask me about **Front-end development**
-
 - 📫 How to reach me **aingabire476@gmail.com or a.ingabire1@alustudent.com**
 
 <h3 align="left">Connect with me:</h3>
