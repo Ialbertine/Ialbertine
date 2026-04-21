@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Albertine Ingabire</h1>
-<h3 align="left">Full-stack developer building modern web applications with a focus on performance, scalability, and great user experience. Always learning and exploring new technologies, including mobile development.</h3>
+<h3 align="left">Full-Stack Developer | Crafting scalable, high-performance applications across web and mobile platforms.</h3>
 
-- 🌱 I’m currently learning **Flutter, React Native**
-- 📫 How to reach me **aingabire476@gmail.com or a.ingabire1@alustudent.com**
+- 🌱 I’m currently learning **Java Backend**
+- 📫 How to reach me **aingabire476@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
