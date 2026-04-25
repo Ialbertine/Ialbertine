@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Albertine Ingabire</h1>
 <h3 align="left">Full-Stack Developer | Crafting scalable, high-performance applications across web and mobile platforms.</h3>
 
-- 🌱 I’m currently learning **Java Backend**
+- 🌱 I’m currently learning **flutter**
 - 📫 How to reach me **aingabire476@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
